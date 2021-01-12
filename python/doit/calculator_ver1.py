@@ -22,7 +22,13 @@ for i in range(100):
         new_list = i
         print(new_list)
 
-# test4
+# test4 (21-01-12)
+a = []
+while range(100):
+    if i % 7 == 0: 
+        i = 0
+        a += i
+        print(a)
 
 
 # 빈 리스트를 가지고 있는 변수를 만들어야 하나?
